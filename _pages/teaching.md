@@ -7,17 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-**PhD student co-supervisor, Goethe University** - 2017-present
-
-Three students: one completed, two ongoing
+**PhD student co-supervisor, Goethe University** || 2017-present
+  Three students: one completed, two ongoing
 
 **Lecturer in Master’s Chemical Biology course, Goethe University** || 2017-2020
 Lecturing to students on sequencing technologies and their applications
 
-**Master’s student supervisor, Goethe University** | 2014-present
+**Master’s student supervisor, Goethe University** || 2014-present
 Five completed		
 
-**Honours and Master’s student supervisor, University of Melbourne** | 2012-2013
+**Honours and Master’s student supervisor, University of Melbourne** || 2012-2013
 One Master’s completed, three Honour’s completed
 
 **Undergraduate research project co-ordinator, University of Melbourne** | 2011
