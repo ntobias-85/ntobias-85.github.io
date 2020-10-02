@@ -38,22 +38,6 @@ Skills
 * Molecular Biology methods
 * Metabolomics, genomics, transcriptomics
 
-Publications
+Other
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
+Completed Data Scientist path at [Dataquest.io](https://www.dataquest.io)
