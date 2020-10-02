@@ -25,7 +25,8 @@ Designed and supervised a research project for 12 students to perform in their 3
 **Lead demonstrator for Molecular Biology Techniques Course, Micromon, Monash University** || 2009 ||
 Supervised a team of five demonstrators with 60 participants from various professional and postgraduate backgrounds in recombinant DNA technologies.
 
-**Demonstrator for Molecular Biology Techniques Course, Micromon, Monash University** || 2007-2008
+**Demonstrator for Molecular Biology Techniques Course, Micromon, Monash University** || 2007-2008 ||
+Demonstrator in recombinant DNA technologies.
 
 **Undergraduate student demonstrator, Monash University** || 2007-2009 || 
 Supervised the practical component and organized tutorials of undergraduate courses including biology (1st and 2nd year; BIO1011, BIO2011), medicine (1st year; MED1011), molecular biology (2nd year; MOL2011, MOL2022), microbiology (2nd and 3rd year; MIC2011, MIC2022, MIC3011, MIC3990, MIC3032), virology (3rd year; MIC3022) and medical microbiology (3rd year; MIC3041).
