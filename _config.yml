@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nick Tobias"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computational Biologist working on large multi-omic datasets from NGS and metabolomics"
   location         : "Frankfurt, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=tobias+nj&sort=date"
