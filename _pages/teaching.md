@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **PhD student co-supervisor, Goethe University** || 2017-present
-\nThree students: one completed, two ongoing
+*Three students: one completed, two ongoing
 
 **Lecturer in Master’s Chemical Biology course, Goethe University** || 2017-2020
 Lecturing to students on sequencing technologies and their applications
