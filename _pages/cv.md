@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Molecular Biology/Bioinformatics, Monash University, Australia, 2013 
+* Grad. Cert. Commercializing Research, Monash University, Australia, 2010
+* B.Sc.(Hons) in Molecular Biology, Monash University, Australia, 2006
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2020 - Present: Group Leader
+  * Senckenberg Gesellschaft für Naturforschung
+  * Researching the effect of parasite exposure on insect microbiomes using python-based tools.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2014 - March 2020: Postdoctoral Researcher
+  * Goethe University, Frankfurt, Germany
+  * Combining transcriptomic, genomic and metabolomic datasets from different bacteria to understand evolution and functional ecology associated with them.
+  * Supervisor: Professor Helge Bode
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bioinformatics
+* Python
+  * numpy, pandas, scikit-learn
+  * Data cleaning
+  * Data visualization
+  * Machine learning
+* Molecular Biology methods
+* Metabolomics, genomics, transcriptomics
 
 Publications
 ======
@@ -54,6 +56,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
