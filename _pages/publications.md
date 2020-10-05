@@ -7,7 +7,11 @@ author_profile: true
 You can always find an updated list of my publications on [my Google Scholar profile](https://scholar.google.de/citations?user=BreNJOEAAAAJ&hl=en).
 
 {% include base_path %}
-
+**37.** Neubacher N*, Tobias NJ*, Huber M*, Cai X, Glatter T, Pidot SJ, Stinear TP, Lütticke A, Papenfort K, Bode HB (2020) **Symbiosis, virulence and natural products biosynthesis in entomopathogenic bacteria are regulated by a small RNA.** Nat Microbiol (accepted).
+*equal first author
+**36.** Mangas KM, Tobias NJ, Marion E, Babonneau J, Marsollier L, Porter JL, Pidot SJ, Wong CY, Jackson DC, Chua BY, Stinear TP (2020). **High antibody titres induced by protein subunit vaccines using Mycobacterium ulcerans antigens Hsp18 and MUL_3720 with a TLR-2 agonist fail to protect against Buruli ulcer in mice.** PeerJ. 8:e9659. doi: 10.7717/peerj.9659. 
+**35.** Mangas KM, Buultjens AH, Porter JL, Baines SL, Marion E, Marsollier L, Tobias NJ, Pidot SJ, Quinn KM, Price DJ, Kedzierska K, Zeng W, Jackson DC, Chua BY, Stinear TP (2020). **Vaccine-Specific Immune Responses against Mycobacterium ulcerans Infection in a Low-Dose Murine Challenge Model.** Infect Immun. 88(3):e00753-19. doi: 10.1128/IAI.00753-19.
+**34.** Tobias NJ, Brehm J, Kresovic D, Brameyer S, Bode HB, Heermann R. (2020). **New Vocabulary for Bacterial Communication.** Chembiochem. doi: 10.1002/cbic.201900580
 **33.** Tobias NJ*, Parra-Rojas C, Shi YN, Shi YM, Simonyi S, Thanwisai A, Vitta A, Chantratita N, Hernandez-Vargas EA*, Bode HB* (2019). **Cyclo(tetrahydroxybutyrate) production is sufficient to distinguish between Xenorhabdus and Photorhabdus isolates in Thailand.** Environ Microbiol (accepted). doi: 10.1111/1462-2920.14685
 *co-corresponding author
 **32.**Tobias NJ, Bode HB (2019). **Heterogeneity in bacterial specialized metabolism.** J Mol Biol (in press). doi: 10.1016/j.jmb.2019.04.042
